@@ -15,3 +15,6 @@ as metrics to be evaluated by a set criteria. In an article published by [Warren
 - Energetic: Possessing strong enthusiasm, energy, and vigor
 
 Through the Spotify API I was able to identify metrics that could be predictive of these factors, and thus help me determine how cool my theoretical brand is.
+
+Through the work in this project, I was able to identify 5 traits that suggested my "brand" is perceived as cool, 2 that showed I was un-cool, and 3 that are to be determined.
+Results documented in [The Verdict](https://github.com/sourwurm/Brand-Coolness-with-Spotify/blob/master/The%20Verdict.pdf)
