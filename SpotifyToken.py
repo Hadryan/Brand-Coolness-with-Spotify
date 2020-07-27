@@ -16,7 +16,7 @@ def get_Token(scope = 'user-library-read', cid, secret, uri = 'www.google.com'):
     
     #default scope: user library
     #use your CID and Secret from the Spotify API
-    #select a uri for sing in, default: google
+    #select a uri for sign in, default: google
 
     #sets environment variables 
     get_ipython().run_line_magic('set_env', 'SPOTIPY_CLIENT_ID = cid')
